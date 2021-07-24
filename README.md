@@ -1,3 +1,8 @@
+<center>
+  <img src="public/icon.svg" width="128">
+  <h1>Insper Agenda</h1>
+</center>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

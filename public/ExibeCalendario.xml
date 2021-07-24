@@ -1,0 +1,104 @@
+<ControleAlocacao>
+  <CalendarioEvento>
+    <data>23/07/2021</data>
+    <tipoaula>LLM</tipoaula>
+    <horainicio>13:30</horainicio>
+    <horatermino>15:30</horatermino>
+    <turma>LLMMFW01</turma>
+    <titulo>TEORIA GERAL E REGULAÇÃO DO MERCADO FINANCEIRO E DE CAPITAIS</titulo>
+    <subgrupo>LLMMFW01</subgrupo>
+    <professor>VALDIR CARLOS PEREIRA FILHO</professor>
+    <sala />
+    <andar />
+    <predio />
+    <datageracao>23/07/2021</datageracao>
+    <horageracao>12:00:07</horageracao>
+    <cancelada>N</cancelada>
+    <familia_curso>PGLS</familia_curso>
+  </CalendarioEvento>
+  <CalendarioEvento>
+    <data>23/07/2021</data>
+    <tipoaula>LLM</tipoaula>
+    <horainicio>15:30</horainicio>
+    <horatermino>18:30</horatermino>
+    <turma>LLMMFW01</turma>
+    <titulo>TEORIA GERAL E REGULAÇÃO DO MERCADO FINANCEIRO E DE CAPITAIS</titulo>
+    <subgrupo>LLMMFW01</subgrupo>
+    <professor>VALDIR CARLOS PEREIRA FILHO</professor>
+    <sala />
+    <andar />
+    <predio />
+    <datageracao>23/07/2021</datageracao>
+    <horageracao>12:00:07</horageracao>
+    <cancelada>N</cancelada>
+    <familia_curso>PGLS</familia_curso>
+  </CalendarioEvento>
+  <CalendarioEvento>
+    <data>23/07/2021</data>
+    <tipoaula>MBA E PROGRAMAS AVANÇADOS</tipoaula>
+    <horainicio>18:00</horainicio>
+    <horatermino>22:00</horatermino>
+    <turma>MBAEXIW02</turma>
+    <titulo>ENTREGA AO MERCADO</titulo>
+    <subgrupo>MBAEXIW02</subgrupo>
+    <professor>IRINEU GUSTAVO NOGUEIRA GIANESI</professor>
+    <sala />
+    <andar />
+    <predio />
+    <datageracao>23/07/2021</datageracao>
+    <horageracao>12:00:07</horageracao>
+    <cancelada>N</cancelada>
+    <familia_curso>PGLS</familia_curso>
+  </CalendarioEvento>
+  <CalendarioEvento>
+    <data>23/07/2021</data>
+    <tipoaula>LLM</tipoaula>
+    <horainicio>13:30</horainicio>
+    <horatermino>18:30</horatermino>
+    <turma>LLMMFW01</turma>
+    <titulo>TEORIA GERAL E REGULAÇÃO DO MERCADO FINANCEIRO E DE CAPITAIS</titulo>
+    <subgrupo>LLMMFW01</subgrupo>
+    <professor>VALDIR CARLOS PEREIRA FILHO</professor>
+    <sala />
+    <andar />
+    <predio />
+    <datageracao>23/07/2021</datageracao>
+    <horageracao>12:00:07</horageracao>
+    <cancelada>N</cancelada>
+    <familia_curso>PGLS</familia_curso>
+  </CalendarioEvento>
+  <CalendarioEvento>
+    <data>23/07/2021</data>
+    <tipoaula>MBA E PROGRAMAS AVANÇADOS</tipoaula>
+    <horainicio>16:00</horainicio>
+    <horatermino>18:00</horatermino>
+    <turma>MBAEXIW02</turma>
+    <titulo>ENTREGA AO MERCADO</titulo>
+    <subgrupo>MBAEXIW02</subgrupo>
+    <professor>IRINEU GUSTAVO NOGUEIRA GIANESI</professor>
+    <sala />
+    <andar />
+    <predio />
+    <datageracao>23/07/2021</datageracao>
+    <horageracao>12:00:07</horageracao>
+    <cancelada>N</cancelada>
+    <familia_curso>PGLS</familia_curso>
+  </CalendarioEvento>
+  <CalendarioEvento>
+    <data>23/07/2021</data>
+    <tipoaula>MBA E PROGRAMAS AVANÇADOS</tipoaula>
+    <horainicio>20:00</horainicio>
+    <horatermino>22:00</horatermino>
+    <turma>MBAEXIW02</turma>
+    <titulo>ENTREGA AO MERCADO</titulo>
+    <subgrupo>MBAEXIW02</subgrupo>
+    <professor>IRINEU GUSTAVO NOGUEIRA GIANESI</professor>
+    <sala />
+    <andar />
+    <predio />
+    <datageracao>23/07/2021</datageracao>
+    <horageracao>12:00:07</horageracao>
+    <cancelada>N</cancelada>
+    <familia_curso>PGLS</familia_curso>
+  </CalendarioEvento>
+</ControleAlocacao>
