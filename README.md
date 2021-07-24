@@ -1,7 +1,7 @@
-<center>
+<p align="center">
   <img src="public/icon.svg" width="128">
   <h1>Insper Agenda</h1>
-</center>
+</p>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
